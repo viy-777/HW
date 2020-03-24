@@ -25,17 +25,14 @@ public class Main {
         while (gameover == true) {
             int dif = Math.abs((i - N));
             if (N == i) {System.out.println("Вы угадали число!");
-            gameover = false;
-            break;}
+                         gameover = false;
+                         break;}
         else
             {
-                if (dif <= 5) {System.out.println("Горячо!");
-                System.out.println("Введите число:");
-                N = in.nextInt();}
-                if (dif > 5) {
-                    System.out.println("Холодно!");
-                    System.out.println("Введите число:");
-                    N = in.nextInt();}
+                if (dif <= 5) {System.out.println("Горячо! Введите число:");
+                               N = in.nextInt();}
+                if (dif > 5) {System.out.println("Холодно! Введите число:");
+                              N = in.nextInt();}
             }
         }
     }
