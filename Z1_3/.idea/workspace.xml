@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e222abe0-ed00-42a7-a2c1-e42bcb471d82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../HW/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW/HW.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW/out/production/HW/ru/baranov/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HW/src/ru/baranov/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Z1_1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Z1_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Z1_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Z1_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Z1_1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Z1_1/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Z1_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Z1_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW/out/production/HW/ru/baranov/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HW/out/production/HW/ru/baranov/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW/src/ru/baranov/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW/src/ru/baranov/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/ru/baranov/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/src/ru/baranov/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
