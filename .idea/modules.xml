@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HW/HW.iml" filepath="$PROJECT_DIR$/HW/HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Types_and_identificators/Types_and_identificators.iml" filepath="$PROJECT_DIR$/Types_and_identificators/Types_and_identificators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Z1_1/Z1_1.iml" filepath="$PROJECT_DIR$/Z1_1/Z1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Z1_2/Z1_2.iml" filepath="$PROJECT_DIR$/Z1_2/Z1_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Z1_3/Z1_3.iml" filepath="$PROJECT_DIR$/Z1_3/Z1_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+    </modules>
+  </component>
+</project>
