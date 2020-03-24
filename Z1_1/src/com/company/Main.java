@@ -15,5 +15,6 @@ public class Main {
 
         hour = sec/3600;
         System.out.println("Количество часов: "+ hour+" ч.");
+
     }
 }
